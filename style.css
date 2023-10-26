@@ -1,0 +1,114 @@
+
+
+
+
+}
+.content p{
+font-size: 16px;
+}
+.content h1{
+    font-family: lovely;
+    color: chocolate;
+}
+@font-face {
+    font-family: lovely;
+    src: url(Carnevalee\ Freakshow.ttf);
+}
+.content a{
+    padding: 5px 10px;
+    border-style:line;
+    color: black;
+    transition: 0.5s;
+    background-color: red;
+    font-family: 'lovely';
+    font-size: 15px;
+    border-radius: 10px;
+
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 100px;
+}
+
+.sub-container h3{
+    color: chocolate;
+    font-size: 21px;
+    font-weight: bold;
+}
+.sub-container img{
+    width: 100px;
+    max-width: 50px;
+    height: auto;
+
+}
+.sub-container{
+    padding: 43px 43px 43px 43px;
+    border-radius: 3rem;
+    justify-content: space-around;
+}
+.social {
+    border-radius: 6px;
+    position: relative;
+    overflow: hidden;
+  }
+  .social a{
+    color: cornsilk;
+    
+ }
+ .about{
+    border-style: double;
+    border-color: chocolate;
+    margin-top: 10px;
+    
+    border-radius: 10px;
+    background-color: chocolate;
+    text-align: center;
+
+ }
+ .title p{
+    color: antiquewhite;
+    align-items: center;
+    
+ }
+ .title h1{
+    color: chocolate;
+    align-items: center;
+ }
+ .title{
+    margin-top: 60px;
+    margin-left: 20px;
+    
+ }
+ .about a{
+    text-decoration: none;
+    font-size: 17px;
+    color: chocolate;
+    border-style: double;
+    border-color: black;
+    
+    border-radius: 10px;
+    background-color: black
+     }
+.about P{
+    padding-bottom:10px;
+}
+.about-me hr{
+    color: black;
+}
+.div li{
+    font-size: 20px;
+}
+.img1{
+    width:160px;
+    float: right;
+    
+}
